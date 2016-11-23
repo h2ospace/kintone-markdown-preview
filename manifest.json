@@ -12,8 +12,8 @@
     },
     "icon": "icon.png",
     "homepage_url": { 
-        "ja": "https://h2o-space.com",
-        "en": "https://h2o-space.com"
+        "ja": "https://github.com/h2ospace/kintone-markdown-preview",
+        "en": "https://github.com/h2ospace/kintone-markdown-preview"
     },
     "desktop": {
         "js": [
