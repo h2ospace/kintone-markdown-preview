@@ -15,3 +15,11 @@
 
 - [ ] CSSをカスタマイズできる機能
 - [ ] フィールドコードを変えなくても対象にできる機能
+
+# ライセンス
+
+Copyright H2O space Co., Ltd. (MIT License)
+
+# Special Thanks
+
+- [marked.js](https://github.com/chjj/marked)
