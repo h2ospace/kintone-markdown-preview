@@ -1,0 +1,27 @@
+{
+    "manifest_version": 1,
+    "version": 1,
+    "type": "APP",
+    "name": { 
+        "ja": "H2O Markdown Preview",
+        "en": "H2O Markdown Preview"
+    },
+    "description": { 
+        "ja": "複数行テキストで、Markdownプレビューができます",
+        "en": "This is Markdown preview for Multiline text"
+    },
+    "icon": "icon.png",
+    "homepage_url": { 
+        "ja": "https://h2o-space.com",
+        "en": "https://h2o-space.com"
+    },
+    "desktop": {
+        "js": [
+            "js/marked.min.js",
+            "js/markdown-preview.js"
+        ],
+        "css": [
+            "css/markdown.css"
+        ]
+    }
+}

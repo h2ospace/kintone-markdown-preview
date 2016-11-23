@@ -1,0 +1,63 @@
+.markdown {
+    white-space: normal !important;
+}
+
+.markdown h1 {
+    font-size: 110%;
+    font-weight: bold;
+    margin: 0 0 1em 0;
+}
+
+.markdown h2 {
+    font-size: 100%;
+    font-weight: bold;
+    margin: 0 0 1em 0;
+}
+
+.markdown h3,
+.markdown h4,
+.markdown h5,
+.markdown h6 {
+    font-size: 100%;
+    font-weight: bold;
+    margin: 0;
+}
+
+.markdown p,
+.markdown dl {
+    margin: 0 0 1em 0;
+}
+
+.markdown dt {
+    font-weight: bold;
+}
+.markdown dd {
+    margin: 0 0 .5em 1em;
+}
+.markdown dd:last-child {
+    margin-bottom: 0;
+}
+
+.markdown pre {
+    background-color: #666;
+    color: #fff;
+    padding: 5px;
+}
+
+.markdown code {
+    background-color: #666;
+    color: #fff;
+    padding: 2px;
+}
+
+.markdown ul {
+    list-style: inherit;
+    margin: 0 0 1em 10px;
+    padding-left: 10px;
+}
+
+.markdown table th,
+.markdown table td {
+    border: 1px solid #333;
+    padding: 3px;
+}
